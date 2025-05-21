@@ -2,7 +2,7 @@
 
 **Fullstack Developer • React & TypeScript • Git Warrior**
 
-![Typing SVG](https://readme-typing-svg.demolab.com?lines=console.log(%22Hello+World!%22);useEffect(()=>+learn(),[]);refactor+your+skills+with+me!&center=true&width=450&height=40&color=F70000)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=600&color=F70000&center=true&vCenter=true&width=700&height=60&lines=Currently+fixing+bugs+I+created+at+2AM...;...to+distract+myself+from+the+void.)](https://github.com/yourusername)
 
 ---
 
